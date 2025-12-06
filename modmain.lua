@@ -116,7 +116,7 @@ local function DigestFoodMod(inst, food)
             if GLOBAL.Prefabs[seed_name] ~= nil then
                 SpwanLoot(inst, seed_name)
             elseif IsSeeds(food) == 1 then
-                SpwanLoot(inst, "seeds", 3)
+                SpwanLoot(inst, "seeds")
             else
                 --否则...
                 --有1/3概率生成粪便。
