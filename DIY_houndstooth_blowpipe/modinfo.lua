@@ -1,7 +1,8 @@
-name = "鸟笼改"
+name = "嚎弹炮修改"
 description = 
 [[
-作物种子换种子
+嚎弹炮可装填蜂刺
+攻击距离增加
 ]]
 author = "xz"
 version = "1.0"

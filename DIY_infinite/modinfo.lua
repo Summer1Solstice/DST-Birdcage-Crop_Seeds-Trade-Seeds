@@ -9,7 +9,7 @@ description = description.."Version "..version
 forumthread = ""
 
 icon_atlas = "modicon.xml"
-icon = "modicon.tex"
+-- icon = "modicon.tex"
 
 dont_starve_compatible = true
 reign_of_giants_compatible = true
